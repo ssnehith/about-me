@@ -8,21 +8,33 @@
 }
 
 .h1{
+    font-family: sans-serif;
     background-color: aquamarine;
 }
 
 .img{
-    height: 300px;
-    width: 200px;
+    height: 175px;
+    width: 125px;
     padding: 10px;
+    border-radius: 20px;
 }
 
-.h2{
+h2{
+    font-family: monospace;
     background-color: aquamarine;
 }
 
 .ul{
     text-align: left;
     background-color: aqua;
+    font-family: cursive;
 }
 
+.p{
+    font-family: Verdana;
+}
+
+.href img{
+    width:50px;
+    height:50px;
+}
