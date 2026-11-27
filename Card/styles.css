@@ -1,0 +1,28 @@
+.container{
+    width: 50vw;
+    background-color:beige;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 5%;
+    padding: 2%;
+}
+
+.h1{
+    background-color: aquamarine;
+}
+
+.img{
+    height: 300px;
+    width: 200px;
+    padding: 10px;
+}
+
+.h2{
+    background-color: aquamarine;
+}
+
+.ul{
+    text-align: left;
+    background-color: aqua;
+}
+
